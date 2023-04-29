@@ -1,0 +1,12 @@
+.cabeçalho{background-color: blue;
+    color: black;
+display:flow-root ;}
+    
+*{margin: 0;padding: 0;}
+.cabeçalho-imagem{font-size: 300%;justify-content:center;}
+
+.cabeçalho-lista-item{width: 100%;font-size: 30px;}
+
+.cabeçalho-imagem2{font-size: 250%;}
+
+.texto-1{font-size: 25px;}
